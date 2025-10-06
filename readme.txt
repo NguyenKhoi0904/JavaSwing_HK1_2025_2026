@@ -1,7 +1,6 @@
 Cấu trúc folder src:
 src
- └── pharmacy_management
-      ├── model           # Chứa các class entity (theo ERD & class diagram)
+ └── ├── model           # Chứa các class entity (theo ERD & class diagram)
       │    ├── User.java
       │    ├── KhachHang.java
       │    ├── NhanVien.java
@@ -43,3 +42,4 @@ src
       │    └── ...
       │
       └── Main.java        # Điểm khởi động chương trình
+      
