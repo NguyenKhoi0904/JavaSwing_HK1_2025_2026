@@ -1,6 +1,6 @@
 Cấu trúc folder src:
 src
- └── ├── model           # Chứa các class entity (theo ERD & class diagram)
+ └── ├── entities           # Chứa các class entity (theo ERD & class diagram)
       │    ├── User.java
       │    ├── KhachHang.java
       │    ├── NhanVien.java
@@ -34,7 +34,7 @@ src
       │    ├── DateUtils.java
       │    └── Validator.java
       │
-      ├── view            # Giao diện (nếu bạn dùng SwingJavaFX)
+      ├── ui            # Giao diện (nếu bạn dùng SwingJavaFX)
       │    ├── LoginFrame.java
       │    ├── MainFrame.java
       │    ├── HoaDonPanel.java
